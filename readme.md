@@ -20,6 +20,25 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 - **`Remover um repositório da sua API`**: Para cada item da sua lista, deve possuir um botão com o texto **Remover** que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
+## ⌨ Como Executar o Projeto:
+
+```bash
+# Clonar o repositório
+git clone https://github.com/GustavoDev764/gostack-desafio-conceitos-reactjs
+
+# Entrar no diretório
+cd gostack-desafio-conceitos-reactjs
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm start
+
+# Link do servido
+http://localhost:3000/
+```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
